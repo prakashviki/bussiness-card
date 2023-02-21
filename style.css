@@ -1,0 +1,17 @@
+body{
+    margin: 100px;
+}
+.profile{
+    width: 150px;
+    margin: 10px;;
+}
+.flex-container{
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    border: 2px dotted black ;
+    justify-content: space-around;
+    background: #ff6699;
+    border-bottom: 10px  solid #ffff00 ;
+}
