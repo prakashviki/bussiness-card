@@ -12,6 +12,6 @@ body{
     align-items: center;
     border: 2px dotted black ;
     justify-content: space-around;
-    background: white;
+    background: #ddebf8;
     border-bottom: 10px  solid #ffff00 ;
 }
